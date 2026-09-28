@@ -39,7 +39,7 @@ export default function Page() {
               >
                 Explore the project <span aria-hidden="true">↗</span>
               </a>
-              <span className="text-sm text-muted-foreground">Created by Zechuan Lu</span>
+              <span className="text-sm text-muted-foreground">Created by Arthur Lu</span>
             </div>
           </div>
 
@@ -92,7 +92,7 @@ export default function Page() {
         <footer className="mt-16 flex flex-col gap-5 border-t border-border pt-6 sm:mt-20 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <p className="text-sm font-semibold">Cross Modality Conditional Diffusion Model</p>
-            <p className="mt-1 text-sm text-muted-foreground">A project by Zechuan Lu</p>
+            <p className="mt-1 text-sm text-muted-foreground">A project by Arthur Lu</p>
           </div>
           <a
             href={repositoryUrl}

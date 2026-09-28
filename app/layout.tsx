@@ -5,7 +5,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Cross Modality Conditional Diffusion Model',
   description:
-    'A DDPM-based framework for translating between corresponding T1-weighted images and T2-weighted MRI scans. A project by Zechuan Lu.',
+    'A DDPM-based framework for translating between corresponding T1-weighted images and T2-weighted MRI scans. A project by Arthur Lu.',
   generator: 'v0.app',
   icons: {
     icon: [
